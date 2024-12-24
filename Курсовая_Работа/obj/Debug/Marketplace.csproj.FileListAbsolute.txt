@@ -1,0 +1,15 @@
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\Курсовая_Работа.exe.config
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\Курсовая_Работа.exe
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\Курсовая_Работа.pdb
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Marketplace.csproj.AssemblyReference.cache
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Курсовая_Работа.MainForm.resources
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Курсовая_Работа.Properties.Resources.resources
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Marketplace.csproj.GenerateResource.cache
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Курсовая_Работа.exe
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Курсовая_Работа.pdb
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\Курсовая_Работа.exe.manifest
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\Курсовая_Работа.application
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Курсовая_Работа.TrustInfo.xml
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Курсовая_Работа.exe.manifest
+C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\obj\Debug\Курсовая_Работа.application

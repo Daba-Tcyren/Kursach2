@@ -1,0 +1,8 @@
+﻿--Product--
+Груша|Fruits|04.12.2024|21|Куприн|Piece|200|35|C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\Barcode8.png|C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\PhoteProduct1.jpg
+--Invoice--
+Ростишка$Казахстан$Нурлат Сабхаева$Алтын ленина 3$+0043-(734)-2343-4342$Flusk@mail.com$ФПИ Банк$684596735$9475301536|20.12.2024|груша|Fruits|20.12.2024|2|Дары АЛтая|Kilogram|50|399|C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\Barcode5.png|C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\PhoteProduct1.jpg|50
+--Order--
+Ростишка$Казахстан$Нурлат Сабхаева$Алтын ленина 3$+0043-(734)-2343-4342$Flusk@mail.com$ФПИ Банк$684596735$9475301536|20.12.2024|груша|Fruits|20.12.2024|2|Дары АЛтая|Kilogram|50|399|C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\Barcode5.png|C:\Users\dabac\source\repos\Курсовая_Работа\Курсовая_Работа\bin\Debug\PhoteProduct1.jpg|50|20947,50
+--Counterparty--
+Ростишка|Казахстан|Нурлат Сабхаева|Алтын ленина 3|+0043-(734)-2343-4342|Flusk@mail.com|ФПИ Банк|684596735|9475301536
